@@ -4,6 +4,8 @@ A Flutter project to implement app open ad.
 
 ## Getting Started
 
+Make sure to change the APPLICATION_ID in the manifest and change the adunit id in the load method.
+
 important - if you are cloning the repo to your desktop, you will need to perform a packages get / pub get to install any dependencies that the project may have.
 
 Check out flutter how to playlist - All flutter how to in one playlist https://www.youtube.com/watch?v=4oLBxuBjGfI&list=PLj919aSiofd1-8DV9hP4-hOlQWE-yD53h
